@@ -1,2 +1,2 @@
 # GuessGame
-This is React-native project
+This is a React-native project
