@@ -9,7 +9,7 @@ Whether played during a leisurely break or in moments of competitive spirit, thi
 
 In essence, this React Native game is not merely a numerical challenge; it's an immersive experience that captivates users, inviting them to embark on a journey of discovery and fun.
 
-# Game Features
+# Game Features:
 1. Initialization: A random number between a specified range (e.g., 1 to 100) is generated upon starting the game. This is the target number that the user needs to guess.
    
 2. User Interaction: The app provides a user interface with an input field for the user to enter their guess. The input field only accepts numeric values within the specified                           range.
@@ -26,8 +26,8 @@ In essence, this React Native game is not merely a numerical challenge; it's an 
     
 8. Reset Option: After a successful guess, you can provide an option for the user to play again. This resets the game, generates a new target number, and allows the user to continue playing.
 
-
-<img width="351" alt="Screenshot 2024-01-16 at 5 58 29 PM" src="https://github.com/kathan5550/GuessTheNumber_Game/assets/105222761/ab478656-06c6-4d4b-9518-fa7a885fafb0"><img width="359" alt="Screenshot 2024-01-16 at 5 59 01 PM" src="https://github.com/kathan5550/GuessTheNumber_Game/assets/105222761/d8889705-4e53-4286-99fc-275923302d96"><img width="357" alt="Screenshot 2024-01-16 at 5 59 30 PM" src="https://github.com/kathan5550/GuessTheNumber_Game/assets/105222761/0d4e69ee-495d-4f58-9aae-a0e4cacfc379">
+# Game Visuals:
+<img width="351" alt="Screenshot 2024-01-16 at 5 58 29 PM" src="https://github.com/kathan5550/GuessTheNumber_Game/assets/105222761/ab478656-06c6-4d4b-9518-fa7a885fafb0">  <img width="359" alt="Screenshot 2024-01-16 at 5 59 01 PM" src="https://github.com/kathan5550/GuessTheNumber_Game/assets/105222761/d8889705-4e53-4286-99fc-275923302d96">  <img width="357" alt="Screenshot 2024-01-16 at 5 59 30 PM" src="https://github.com/kathan5550/GuessTheNumber_Game/assets/105222761/0d4e69ee-495d-4f58-9aae-a0e4cacfc379">
 
 
 
