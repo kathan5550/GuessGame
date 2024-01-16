@@ -11,10 +11,17 @@ In essence, this React Native game is not merely a numerical challenge; it's an 
 
 # Game Features
 1. Initialization: A random number between a specified range (e.g., 1 to 100) is generated upon starting the game. This is the target number that the user needs to guess.
+   
 2. User Interaction: The app provides a user interface with an input field for the user to enter their guess. The input field only accepts numeric values within the specified                           range.
+   
 3. Guess Submission: After entering their guess, the user clicks a "Submit" or "Guess" button to submit their choice.
+   
 4. Feedback: The app evaluates the user's guesses and provides feedback to guide them in the right direction. For instance, if the guessed number is lower than the target,                      the app informs the user to try a higher number, and vice versa.
+   
 5. Game Outcome: The game continues until the user correctly guesses the target number. Upon a successful guess, a congratulatory message is displayed.
+    
 6. Validation: The app validates user inputs to ensure they are within the acceptable range and are valid numeric values. An appropriate error message is displayed if the                         user enters an invalid input.
+    
 7. User Experience: To enhance user experience, you can incorporate styling to make the interface visually appealing. Additionally, you may include sound effects or animations to                      make the game more engaging.
+    
 8. Reset Option: After a successful guess, you can provide an option for the user to play again. This resets the game, generates a new target number, and allows the user to                         continue playing.
