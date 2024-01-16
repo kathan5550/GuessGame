@@ -20,8 +20,13 @@ In essence, this React Native game is not merely a numerical challenge; it's an 
    
 5. Game Outcome: The game continues until the user correctly guesses the target number. Upon a successful guess, a congratulatory message is displayed.
     
-6. Validation: The app validates user inputs to ensure they are within the acceptable range and are valid numeric values. An appropriate error message is displayed if the                         user enters an invalid input.
+6. Validation: The app validates user inputs to ensure they are within the acceptable range and are valid numeric values. An appropriate error message is displayed if the                      user enters an invalid input.
     
-7. User Experience: To enhance user experience, you can incorporate styling to make the interface visually appealing. Additionally, you may include sound effects or animations to                      make the game more engaging.
+7. User Experience: To enhance user experience, you can incorporate styling to make the interface visually appealing. Additionally, you may include sound effects or animations to make the game more engaging.
     
-8. Reset Option: After a successful guess, you can provide an option for the user to play again. This resets the game, generates a new target number, and allows the user to                         continue playing.
+8. Reset Option: After a successful guess, you can provide an option for the user to play again. This resets the game, generates a new target number, and allows the user to continue playing.
+
+
+<img width="351" alt="Screenshot 2024-01-16 at 5 58 29 PM" src="https://github.com/kathan5550/GuessTheNumber_Game/assets/105222761/ab478656-06c6-4d4b-9518-fa7a885fafb0">
+
+   
