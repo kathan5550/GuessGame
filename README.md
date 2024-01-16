@@ -18,4 +18,3 @@ In essence, this React Native game is not merely a numerical challenge; it's an 
 6. Validation: The app validates user inputs to ensure they are within the acceptable range and are valid numeric values. An appropriate error message is displayed if the                         user enters an invalid input.
 7. User Experience: To enhance user experience, you can incorporate styling to make the interface visually appealing. Additionally, you may include sound effects or animations to                      make the game more engaging.
 8. Reset Option: After a successful guess, you can provide an option for the user to play again. This resets the game, generates a new target number, and allows the user to                         continue playing.
-9. Optional Features: Depending on your preferences, you can add extra features such as a scoring system, difficulty levels, or a timer to add an element of challenge to the game.
